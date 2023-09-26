@@ -1,6 +1,6 @@
 # winget-pkgs [![Powered By: OpenAQ](https://img.shields.io/badge/powered%20by-openaq-green.svg?style=flat-square)](https://github.com/openaq)
 
-## Scoop bucket for @openaq-cli binaries, powered by @openaq
+## Add Winget source for @openaq-cli binaries, powered by @openaq
 
 - **Adding the source**
 
